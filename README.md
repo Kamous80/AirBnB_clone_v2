@@ -171,4 +171,4 @@ The recognizable commands by the interpreter are the following:
 
 Abdulganiyu Kamaldeen | Email: [kamous80](mailto:kamalacademy1438@gmail.com) 
 
-Enoch Adejare | Github: [otoobongekim](mailto:otoobongekim@gmail.com)
+Getinet Amare | Github: [otoobongekim](mailto:otoobongekim@gmail.com)
